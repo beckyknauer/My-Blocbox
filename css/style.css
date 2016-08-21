@@ -554,7 +554,7 @@ p {
 
  .left-nav .settings p {
    display: inline-block;
-   vertical-align: top;
+   vertical-align: bottom;
    padding-top: 8px;
    font-family: 'Quicksand'; 
    font-weight: 800;
